@@ -1,0 +1,6 @@
+## 1.0.0 (2026-04-10)
+
+### ✨ Features
+
+* add anthropic_models datasource ([#3](https://github.com/ippontech/terraform-provider-anthropic/issues/3)) ([b7d3876](https://github.com/ippontech/terraform-provider-anthropic/commit/b7d3876b3c82c3bb5768cf595b1dd45983b60e90))
+* initialize Anthropic Terraform provider ([#1](https://github.com/ippontech/terraform-provider-anthropic/issues/1)) ([b26c8f0](https://github.com/ippontech/terraform-provider-anthropic/commit/b26c8f0c4f82fde987fe8d97c01d367e994f2df3))
