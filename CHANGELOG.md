@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/ippontech/terraform-provider-anthropic/compare/v1.1.1...v1.2.0) (2026-04-13)
+
+### ✨ Features
+
+* add anthropic_count_tokens data source ([#8](https://github.com/ippontech/terraform-provider-anthropic/issues/8)) ([790b7a2](https://github.com/ippontech/terraform-provider-anthropic/commit/790b7a2ff376bc20def47dfcc3ee9df12859683d))
+
 ## [1.1.1](https://github.com/ippontech/terraform-provider-anthropic/compare/v1.1.0...v1.1.1) (2026-04-13)
 
 ### 🐛 Bug Fixes
