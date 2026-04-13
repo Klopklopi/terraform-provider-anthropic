@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/ippontech/terraform-provider-anthropic/compare/v1.1.0...v1.1.1) (2026-04-13)
+
+### 🐛 Bug Fixes
+
+* commit missing generated docs from [#6](https://github.com/ippontech/terraform-provider-anthropic/issues/6) ([#7](https://github.com/ippontech/terraform-provider-anthropic/issues/7)) ([2ff0843](https://github.com/ippontech/terraform-provider-anthropic/commit/2ff08430434c381a219e52fa9f3b23d78bb1743b))
+
 ## [1.1.0](https://github.com/ippontech/terraform-provider-anthropic/compare/v1.0.1...v1.1.0) (2026-04-13)
 
 ### ✨ Features
