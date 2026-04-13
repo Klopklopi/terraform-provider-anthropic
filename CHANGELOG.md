@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/ippontech/terraform-provider-anthropic/compare/v1.0.1...v1.1.0) (2026-04-13)
+
+### ✨ Features
+
+* add anthropic_message resource ([#6](https://github.com/ippontech/terraform-provider-anthropic/issues/6)) ([1563330](https://github.com/ippontech/terraform-provider-anthropic/commit/1563330277ba73a124ff6f1460cf3150d69bdbd0))
+
 ## [1.0.1](https://github.com/ippontech/terraform-provider-anthropic/compare/v1.0.0...v1.0.1) (2026-04-13)
 
 ### 🐛 Bug Fixes
