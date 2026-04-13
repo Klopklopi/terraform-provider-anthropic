@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/ippontech/terraform-provider-anthropic/compare/v1.0.0...v1.0.1) (2026-04-13)
+
+### 🐛 Bug Fixes
+
+* update registry address and add Terraform tests on examples ([#5](https://github.com/ippontech/terraform-provider-anthropic/issues/5)) ([b48790d](https://github.com/ippontech/terraform-provider-anthropic/commit/b48790d5fb9b21387a399882b164e61a0f34fc21))
+
 ## 1.0.0 (2026-04-10)
 
 ### ✨ Features
